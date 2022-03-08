@@ -3,21 +3,4 @@
 
 @import "{{ site.theme }}";
 
-.page-header{
-background-color: #8DCAA7;
-background-image: url("https://mjrovai.github.io/Mapping_Covid-19_Brazil/images/Portada_5.png?raw=true");
-background-repeat: no-repeat;
-background-position: tcenter center;
-height: 300px;
-position: relative;
-display: flex;
-flex-direction: row;
-justify-content: center;
-align-items: flex-end;
-}
 
-.btn{
-  position: absolute;
-  margin-bottom: 1rem;
-  bottom: 0;
-}
