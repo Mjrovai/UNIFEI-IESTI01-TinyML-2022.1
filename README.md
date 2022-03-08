@@ -1,6 +1,6 @@
 # UNIFEI-IESTI01-TinyML-2022.1
 ## TinyML - Machine Learning for Embedding Devices
-**1st Semester**
+**2022 - 1st Semester**
 
 <img src='images/IESTI_2.jpg'/>
 <figcaption><a href='https://unifei.edu.br/iesti/'>Instituto de Engenharia de Sistemas e Tecnologias da Informação – IESTI - Campus de Itajubá</a></figcaption>
