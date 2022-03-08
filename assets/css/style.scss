@@ -1,10 +1,12 @@
 ---
 ---
 
-@import "{{ site.theme }}";
 .page-header{
   font: 40px/48px 'Copse', "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
+
+@import "{{ site.theme }}";
+
 
 .btn{
   position: absolute;
