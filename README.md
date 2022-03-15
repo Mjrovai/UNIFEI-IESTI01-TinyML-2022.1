@@ -39,6 +39,7 @@ For the previous versions of IESTI01 courses, please visit:
 ### Parte 2: Applications & Deploy
 + Class 15 - ML Applications Overview - AI Lifecycle and ML Workflow 
 + Class 16 - Introduction to TFLite and TFLite-Micro 
+  + Class 16a - EdgeML with TensorFlow Lite (RaspberryPi Demo)
 + Class 17 - TinyML Kit Overview - HW and SW Installation & Test 
 + Class 18 - TFLite-Micro Overview & Hello World Code Walkthrough
 + Class 19 - Motion Classification - Introdution
