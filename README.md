@@ -124,7 +124,7 @@ IESTI01 faz parte do [TinyML4D](https://tinyml.seas.harvard.edu/), uma iniciativ
 + Noções de Algebra linear, análise de sinais, probabilidade básica e estatística. Muitos tópicos de ML giram em torno de compreender operações e notação de vetores e matrizes, bem como conceitos de distribuições gaussianas, médias, desvios-padrão etc.
 
 ## Metodologia/Recursos: 
-+ As aulas serão ministradas de maneira remota e ao vivo (aulas síncronas) pela plataforma Zoom, todas as quartas-feiras das 13:30h às 15:30h. As gravações das aulas estarão disponíveis aos alunos para revisão. 
++ As aulas serão ministradas de maneira remota e ao vivo (aulas síncronas) pela plataforma Google Meet, todas as quartas-feiras das 13:30h às 15:30h (horário de Brasília). As gravações das aulas estarão disponíveis aos alunos para revisão. 
 + Exercícios e projetos poderão ser desenvolvidos em computadores pessoais com TensorFlow V.2x instalados ou utilizando-se de ferramentas on-line como [Google CoLab](https://colab.research.google.com/notebooks/intro.ipynb).
 + Modelos reais de TinyML serão desenvolvidos e treinados utilizando-se do [Edge Impulse Studio](https://www.edgeimpulse.com/).
 + Para a captura inicial de dados, deployment dos modelos treinados e familiarização das ferramentas de mercado, serão utilizados inicialmante smart-phones pessoais dotados de pelo menos sensores do tipo: acelerômetro, microfone e camera.
