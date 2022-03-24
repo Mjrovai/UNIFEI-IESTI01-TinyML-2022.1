@@ -84,6 +84,7 @@ A atual versão deste curso, pioneiro na América Latina, tem como principais re
 + [Computer Vision with Embedded Machine Learning - Coursera/Edge Impulse](https://www.coursera.org/learn/computer-vision-with-embedded-machine-learning)
 + Fundamentals text book: ["Deep Learning with Python" by François Chollet](https://www.manning.com/books/deep-learning-with-python)
 + Applications & Deploy text book: ["TinyML" by Pete Warden, Daniel Situnayake](https://www.oreilly.com/library/view/tinyml/9781492052036/)
++ Deploy Text Book ["TinyML Cookbook" by Gian Marco Iodice](https://github.com/PacktPublishing/TinyML-Cookbook)
 
 IESTI01 faz parte do [TinyML4D](https://tinyml.seas.harvard.edu/), uma iniciativa para tornar a ensino do TinyML disponível para todos em todo o mundo.
 
