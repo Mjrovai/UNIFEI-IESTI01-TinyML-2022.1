@@ -22,7 +22,7 @@ For the previous versions of IESTI01 courses, please visit:
 
 ### Parte 1: Fundamentals 
 + Class 1 - About the Course and Syllabus [[Slides]](00_Curse_Folder/1_Fundamentals/Class_01/IESTI01_TinyML_class_1.pdf) [[Video]]()
-+ Class 2 - Introduction to TinyML [[Slides]](00_Curse_Folder/1_Fundamentals/Class_02/IESTI01_TinyML_class_2.pdf) [[Video]]()
++ Class 2 - Introduction to TinyML [[Slides]](00_Curse_Folder/1_Fundamentals/Class_02/IESTI01_TinyML_class_2.pdf) [[Docs]](00_Curse_Folder/1_Fundamentals/Class_02/docs/) [[Video]]()
 + Class 3 - TinyML - Challenges 
 + Class 4 - Jupyter Notebook, CoLab and Python Review 
 + Class 5 - The Machine Learning Paradigm 
