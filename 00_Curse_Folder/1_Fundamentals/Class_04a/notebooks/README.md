@@ -1,3 +1,17 @@
+## Google CoLab
+Google Colaboratory or [CoLab](https://colab.research.google.com/notebooks/intro.ipynb) for short, allows you to write and execute Python in your browser, with
+zero configuration required, free access to GPUs and easy sharing. Google Colab is also an online integrated developer environment to design, train, and test our machine learning models.
+
+- Here is an introduction to Google Colab. [Watch Jake VanderPlas from Google give a wonderful intro to Colab.](https://www.youtube.com/watch?v=inN8seMm7UI)
+
+- Follow the [Tips_for_using_Colab](/00_Curso_Folder/1_Fundamentals/Class_4/docs/Tips_for_using_Colab.pdf), to use it properly.
+
+## A Whirlwind Tour of Python by Jake VanderPlas
+- [e-book in pdf](/00_Curso_Folder/1_Fundamentals/Class_4/docs/A-whirlwind-tour-of-python.pdf) 
+- [e-book content available on Github in the form of Jupyter Notebook](https://github.com/jakevdp/WhirlwindTourOfPython)
+
+
+
 ## Python4DS (Python for Data Science) Review
 You can download the notebooks running them locally on your machine, or using Google Colab (Clicking the buttons).
 
