@@ -7,7 +7,7 @@ zero configuration required, free access to GPUs and easy sharing. Google Colab 
 - Follow the [Tips_for_using_Colab](/00_Curso_Folder/1_Fundamentals/Class_04a/docs/Tips_for_using_Colab.pdf), to use it properly.
 
 ## A Whirlwind Tour of Python by Jake VanderPlas
-- [e-book in pdf](/00_Curso_Folder/1_Fundamentals/Class_04a/docs/A-whirlwind-tour-of-python.pdf) 
+- [e-book in pdf](https://github.com/Mjrovai/UNIFEI-IESTI01-TinyML-2022.1/blob/main/00_Curse_Folder/1_Fundamentals/Class_04a/docs/A-whirlwind-tour-of-python.pdf) 
 - [e-book content available on Github in the form of Jupyter Notebook](https://github.com/jakevdp/WhirlwindTourOfPython)
 
 
