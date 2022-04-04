@@ -4,7 +4,7 @@ zero configuration required, free access to GPUs and easy sharing. Google Colab 
 
 - Here is an introduction to Google Colab. [Watch Jake VanderPlas from Google give a wonderful intro to Colab.](https://www.youtube.com/watch?v=inN8seMm7UI)
 
-- Follow the [Tips_for_using_Colab](/00_Curso_Folder/1_Fundamentals/Class_04a/docs/Tips_for_using_Colab.pdf), to use it properly.
+- Follow the [Tips_for_using_Colab](https://github.com/Mjrovai/UNIFEI-IESTI01-TinyML-2022.1/blob/main/00_Curse_Folder/1_Fundamentals/Class_04a/docs/Tips_for_using_Colab.pdf), to use it properly.
 
 ## A Whirlwind Tour of Python by Jake VanderPlas
 - [e-book in pdf](https://github.com/Mjrovai/UNIFEI-IESTI01-TinyML-2022.1/blob/main/00_Curse_Folder/1_Fundamentals/Class_04a/docs/A-whirlwind-tour-of-python.pdf) 
