@@ -28,7 +28,7 @@ For the previous versions of IESTI01 courses, please visit:
   + Class 4a - Google CoLab [[Notebooks and Docs]](00_Curse_Folder/1_Fundamentals/Class_04a) [[Video]](https://youtu.be/m_Ueb88yd88)
   + Class 4b - Python Review [[Notebooks and Docs]](00_Curse_Folder/1_Fundamentals/Class_04a) [[Video]](https://youtu.be/07tGfteD4_s)
 + Class 5 - The Machine Learning Paradigm [[Slides]](00_Curse_Folder/1_Fundamentals/Class_05/IESTI01_TinyML_class_5.pdf) [[Notebooks and Docs]](00_Curse_Folder/1_Fundamentals/Class_05) [[Video]]()
-+ Class 6 - The Building Blocks of Deep Learning (DL) - Introduction [[Slides]](00_Curse_Folder/1_Fundamentals/Class_06/IESTI01_TinyML_class_6.pdf) [[Notebooks and Docs]](00_Curse_Folder/1_Fundamentals/Class_06) [[Video]](
++ Class 6 - The Building Blocks of Deep Learning (DL) - Introduction [[Slides]](00_Curse_Folder/1_Fundamentals/Class_06/IESTI01_TinyML_class_6.pdf) [[Notebooks and Docs]](00_Curse_Folder/1_Fundamentals/Class_06) [[Video]]()
 + Class 7 - The Building Blocks of DL - Regression with DSS 
 + Class 8 - The Building Blocks of DL - Classification with DSS 
 + Class 9 - The Building Blocks of DL - DNN Recap, Datasets and Model Performance Metrics 
