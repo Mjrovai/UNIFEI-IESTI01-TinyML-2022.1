@@ -33,8 +33,8 @@ For the previous versions of IESTI01 courses, please visit:
 + Class 8 - The Building Blocks of DL - Classification with DSS [[Slides]](00_Curse_Folder/1_Fundamentals/Class_08/IESTI01_TinyML_class_8.pdf) [[Notebooks and Docs]](00_Curse_Folder/1_Fundamentals/Class_08) [[Video]](https://youtu.be/WCzNvVEPigE)
 + Class 9 - The Building Blocks of DL - DNN Recap, Datasets and Model Performance Metrics [[Slides]](00_Curse_Folder/1_Fundamentals/Class_09/IESTI01_TinyML_class_9.pdf) [[Notebooks and Docs]](00_Curse_Folder/1_Fundamentals/Class_09) [[Video]](https://youtu.be/bQjIZc9iWhw)
 + Class 10 - Introducing Convolutions (CNN) [[Slides]](00_Curse_Folder/1_Fundamentals/Class_10/IESTI01_TinyML_class_10.pdf) [[Docs]](00_Curse_Folder/1_Fundamentals/Class_10) [[Video]](https://youtu.be/swAs2-RuTpQ)
-+ Class 11 - Image Classification using CNN 
-+ Class 12 - Introduction to Edge Impulse – CNN with Cifar-10 
++ Class 11 - Image Classification using CNN [[Slides]](00_Curse_Folder/1_Fundamentals/Class_11/IESTI01_TinyML_class_11.pdf) [[Notebooks and Docs]](00_Curse_Folder/1_Fundamentals/Class_11) [[Video]]()
++ Class 12 - Introduction to Edge Impulse – CNN with Cifar-10 [[Slides]](00_Curse_Folder/1_Fundamentals/Class_12/IESTI01_TinyML_class_12.pdf) [[Notebooks]](00_Curse_Folder/1_Fundamentals/Class_12) [[Video]]()
 + Class 13 - Preventing Overfitting 
 + Class 14 - Fundamentals wrap-up and Application’s preview 
   
