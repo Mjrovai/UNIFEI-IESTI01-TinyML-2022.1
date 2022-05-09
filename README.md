@@ -35,8 +35,8 @@ For the previous versions of IESTI01 courses, please visit:
 + Class 10 - Introducing Convolutions (CNN) [[Slides]](00_Curse_Folder/1_Fundamentals/Class_10/IESTI01_TinyML_class_10.pdf) [[Docs]](00_Curse_Folder/1_Fundamentals/Class_10) [[Video]](https://youtu.be/swAs2-RuTpQ)
 + Class 11 - Image Classification using CNN [[Slides]](00_Curse_Folder/1_Fundamentals/Class_11/IESTI01_TinyML_class_11.pdf) [[Notebooks and Docs]](00_Curse_Folder/1_Fundamentals/Class_11) [[Video]](https://youtu.be/VeyQNtPp1Wo)
 + Class 12 - Introduction to Edge Impulse – CNN with Cifar-10 [[Slides]](00_Curse_Folder/1_Fundamentals/Class_12/IESTI01_TinyML_class_12.pdf) [[Notebooks]](00_Curse_Folder/1_Fundamentals/Class_12) [[Video]](https://youtu.be/L9Stg1r0qW4)
-+ Class 13 - Preventing Overfitting 
-+ Class 14 - Fundamentals wrap-up and Application’s preview 
++ Class 13 - Preventing Overfitting [[Slides]](00_Curse_Folder/1_Fundamentals/Class_13/IESTI01_TinyML_class_13.pdf) [[Notebooks and docs]](00_Curse_Folder/1_Fundamentals/Class_13) [[Video]]()
++ Class 14 - Fundamentals wrap-up and Application’s preview [[Slides]](00_Curse_Folder/1_Fundamentals/Class_14/IESTI01_TinyML_class_14.pdf) [[Docs]](00_Curse_Folder/1_Fundamentals/Class_14) [[Video]]()
   
 ### Parte 2: Applications & Deploy
 + Class 15 - ML Applications Overview - AI Lifecycle and ML Workflow 
