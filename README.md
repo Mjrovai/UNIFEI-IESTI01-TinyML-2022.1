@@ -43,8 +43,9 @@ For the previous versions of IESTI01 courses, please visit:
 + Class 15 - ML Applications Overview - AI Lifecycle and ML Workflow [[Slides]](/00_Curse_Folder/2_Applications_Deploy/Class_15/IESTI01_TinyML_class_15.pdf)  [[Video]](https://youtu.be/AvNlaOsnwPw)
 + Class 16 - Introduction to TFLite and TFLite-Micro [[Slides]](/00_Curse_Folder/2_Applications_Deploy/Class_16/IESTI01_TinyML_class_16.pdf) [[Notebooks]](00_Curse_Folder/2_Applications_Deploy/Class_16) [[Docs]](00_Curse_Folder/2_Applications_Deploy/Class_16/docs) [[Video]](https://youtu.be/76G5LkWHsh8)
   + Class 16a - EdgeML with TensorFlow Lite (RaspberryPi Demo) [[Slides]](/00_Curse_Folder/2_Applications_Deploy/Class_16/EdgeML-Demo/IESTI01_TinyML_class_16a.pdf) [[Video]](https://youtu.be/lZ1W7MnJFD4)
-+ Class 17 - TinyML Kit Overview - HW and SW Installation & Test [[Slides]](/00_Curse_Folder/2_Applications_Deploy/Class_17/IESTI01_TinyML_class_17.pdf) [[Notebooks]](00_Curse_Folder/2_Applications_Deploy/Class_17) [[Docs]](00_Curse_Folder/2_Applications_Deploy/Class_17/docs) [[Video]]()
-+ Class 18 - TFLite-Micro Overview & Hello World Code Walkthrough [[Slides]](/00_Curse_Folder/2_Applications_Deploy/Class_18/IESTI01_TinyML_class_18.pdf) [[Docs]](00_Curse_Folder/2_Applications_Deploy/Class_18/docs) [[Video]]()
+  + Class 16a - TFL-Micro Hello World [[Video]](https://youtu.be/hjOKVo1mbaY)
++ Class 17 - TinyML Kit Overview - HW and SW Installation & Test [[Slides]](/00_Curse_Folder/2_Applications_Deploy/Class_17/IESTI01_TinyML_class_17.pdf) [[Notebooks]](00_Curse_Folder/2_Applications_Deploy/Class_17) [[Docs]](00_Curse_Folder/2_Applications_Deploy/Class_17/docs) [[Video]](https://youtu.be/H6ABUMTWqlo)
++ Class 18 - TFLite-Micro Overview & Hello World Code Walkthrough [[Slides]](/00_Curse_Folder/2_Applications_Deploy/Class_18/IESTI01_TinyML_class_18.pdf) [[Docs]](00_Curse_Folder/2_Applications_Deploy/Class_18/docs) [[Video]](https://youtu.be/GPZ9FeGfizE)
 + Class 19 - Motion Classification - Introdution
 + Class 20 -  Motion Classification using MCU 
 + Class 21 - Lecturer with an Industry Expert 
