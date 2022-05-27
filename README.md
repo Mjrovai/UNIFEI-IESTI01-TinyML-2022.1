@@ -46,8 +46,9 @@ For the previous versions of IESTI01 courses, please visit:
   + Class 16a - TFL-Micro Hello World [[Video]](https://youtu.be/hjOKVo1mbaY)
 + Class 17 - TinyML Kit Overview - HW and SW Installation & Test [[Slides]](/00_Curse_Folder/2_Applications_Deploy/Class_17/IESTI01_TinyML_class_17.pdf) [[Notebooks]](00_Curse_Folder/2_Applications_Deploy/Class_17) [[Docs]](00_Curse_Folder/2_Applications_Deploy/Class_17/docs) [[Video]](https://youtu.be/H6ABUMTWqlo)
 + Class 18 - TFLite-Micro Overview & Hello World Code Walkthrough [[Slides]](/00_Curse_Folder/2_Applications_Deploy/Class_18/IESTI01_TinyML_class_18.pdf) [[Docs]](00_Curse_Folder/2_Applications_Deploy/Class_18/docs) [[Video]](https://youtu.be/GPZ9FeGfizE)
-+ Class 19 - Motion Classification - Introdution
-+ Class 20 -  Motion Classification using MCU 
++ Class 19 - Motion Classification - Introdution [[Slides]](/00_Curse_Folder/2_Applications_Deploy/Class_19/IESTI01_TinyML_class_19.pdf) [[Video]]()
++ Class 20 -  Motion Classification using MCU (Nano 33) [[Slides]](/00_Curse_Folder/2_Applications_Deploy/Class_20/IESTI01_TinyML_class_20.pdf) [[Docs]](00_Curse_Folder/2_Applications_Deploy/Class_20) [[Video]]()
+  +  Class 20a - Motion Classification using MCU (ESP32) [[Slides]](/00_Curse_Folder/2_Applications_Deploy/Class_20/ESP32/IESTI01_TinyML_class_20a.pdf) [[Docs]](00_Curse_Folder/2_Applications_Deploy/Class_20/ESP32)
 + Class 21 - Lecturer with an Industry Expert 
 + Class 22 - Anomaly Detection using MCU 
 + Class 23 - Keyword Spotting - Introduction 
