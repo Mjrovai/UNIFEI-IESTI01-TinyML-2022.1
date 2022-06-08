@@ -49,8 +49,8 @@ For the previous versions of IESTI01 courses, please visit:
 + Class 19 - Motion Classification - Introdution [[Slides]](/00_Curse_Folder/2_Applications_Deploy/Class_19/IESTI01_TinyML_class_19.pdf) [[Video]](https://youtu.be/sf92FFbrbrQ)
 + Class 20 -  Motion Classification using MCU (Nano 33) [[Slides]](/00_Curse_Folder/2_Applications_Deploy/Class_20/IESTI01_TinyML_class_20.pdf) [[Docs]](00_Curse_Folder/2_Applications_Deploy/Class_20) [[Video]](https://youtu.be/qnpfl7Eaz_k)
   +  Class 20a - Motion Classification using MCU (ESP32) [[Slides]](/00_Curse_Folder/2_Applications_Deploy/Class_20/ESP32/IESTI01_TinyML_class_20a.pdf) [[Docs]](00_Curse_Folder/2_Applications_Deploy/Class_20/ESP32)
-+ Class 21 - K-means Clustering & Anomaly Detection [[Slides]](/00_Curse_Folder/2_Applications_Deploy/Class_21/IESTI01_TinyML_class_21.pdf) [[Docs]](00_Curse_Folder/2_Applications_Deploy/Class_21/docs) [[Notebooks]](00_Curse_Folder/2_Applications_Deploy/Class_21) [[Video]]() 
-+ Class 22 - Anomaly Detection Hands-On Lab & Pos-Processing [[Slides]](/00_Curse_Folder/2_Applications_Deploy/Class_22/IESTI01_TinyML_class_22.pdf)  [[Code]](00_Curse_Folder/2_Applications_Deploy/Class_22) [[Video]]() 
++ Class 21 - K-means Clustering & Anomaly Detection [[Slides]](/00_Curse_Folder/2_Applications_Deploy/Class_21/IESTI01_TinyML_class_21.pdf) [[Docs]](00_Curse_Folder/2_Applications_Deploy/Class_21/docs) [[Notebooks]](00_Curse_Folder/2_Applications_Deploy/Class_21) [[Video]](https://youtu.be/4Tg78HPfSbY) 
++ Class 22 - Anomaly Detection Hands-On Lab & Pos-Processing [[Slides]](/00_Curse_Folder/2_Applications_Deploy/Class_22/IESTI01_TinyML_class_22.pdf)  [[Code]](00_Curse_Folder/2_Applications_Deploy/Class_22) [[Video]](https://youtu.be/oTsAWb4w2lY) 
 + Class 23 - Keyword Spotting - Introduction 
 + Class 24 - Lab KWS using MCU 
 + Class 25 - Collecting Data with Edge Impulse Studio 
