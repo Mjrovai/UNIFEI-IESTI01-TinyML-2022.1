@@ -51,8 +51,8 @@ For the previous versions of IESTI01 courses, please visit:
   +  Class 20a - Motion Classification using MCU (ESP32) [[Slides]](/00_Curse_Folder/2_Applications_Deploy/Class_20/ESP32/IESTI01_TinyML_class_20a.pdf) [[Docs]](00_Curse_Folder/2_Applications_Deploy/Class_20/ESP32)
 + Class 21 - K-means Clustering & Anomaly Detection [[Slides]](/00_Curse_Folder/2_Applications_Deploy/Class_21/IESTI01_TinyML_class_21.pdf) [[Docs]](00_Curse_Folder/2_Applications_Deploy/Class_21/docs) [[Notebooks]](00_Curse_Folder/2_Applications_Deploy/Class_21) [[Video]](https://youtu.be/4Tg78HPfSbY) 
 + Class 22 - Anomaly Detection Hands-On Lab & Pos-Processing [[Slides]](/00_Curse_Folder/2_Applications_Deploy/Class_22/IESTI01_TinyML_class_22.pdf)  [[Code]](00_Curse_Folder/2_Applications_Deploy/Class_22) [[Video]](https://youtu.be/oTsAWb4w2lY) 
-+ Class 23 - Keyword Spotting - Introduction 
-+ Class 24 - Lab KWS using MCU 
++ Class 23 - Keyword Spotting - Introduction [[Slides]](/00_Curse_Folder/2_Applications_Deploy/Class_23/IESTI01_TinyML_class_23.pdf) [[Docs]](00_Curse_Folder/2_Applications_Deploy/Class_23/docs) [[Notebooks]](00_Curse_Folder/2_Applications_Deploy/Class_23) [[Video]]() 
++ Class 24 - Lab KWS using MCU [[Slides]](/00_Curse_Folder/2_Applications_Deploy/Class_24/IESTI01_TinyML_class_24.pdf) [[Docs and code]](00_Curse_Folder/2_Applications_Deploy/Class_24/docs) [[Notebooks]](00_Curse_Folder/2_Applications_Deploy/Class_24) [[Video]]() 
 + Class 25 - Collecting Data with Edge Impulse Studio 
 + Class 26 - Visual Wake Words (VWW) - Introduction 
   +  Class 26a - Person Detection (VWW) - Application 
