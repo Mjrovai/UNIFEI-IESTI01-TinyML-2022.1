@@ -54,7 +54,7 @@ For the previous versions of IESTI01 courses, please visit:
 + Class 23 - Keyword Spotting - Introduction [[Slides]](/00_Curse_Folder/2_Applications_Deploy/Class_23/IESTI01_TinyML_class_23.pdf) [[Docs]](00_Curse_Folder/2_Applications_Deploy/Class_23/docs) [[Notebooks]](00_Curse_Folder/2_Applications_Deploy/Class_23) [[Video]](https://youtu.be/VCkQ2A6_huM) 
 + Class 24 - Lab KWS using MCU [[Slides]](/00_Curse_Folder/2_Applications_Deploy/Class_24/IESTI01_TinyML_class_24.pdf) [[Docs and code]](00_Curse_Folder/2_Applications_Deploy/Class_24/docs) [[Notebooks]](00_Curse_Folder/2_Applications_Deploy/Class_24) [[Video]](https://youtu.be/-4BqS_KMJtc) 
 + Class 25 - Image Classification Introduction [[Slides]](/00_Curse_Folder/2_Applications_Deploy/Class_25/IESTI01_TinyML_class_25.pdf) [[Docs]](00_Curse_Folder/2_Applications_Deploy/Class_25/docs) [[Notebooks]](00_Curse_Folder/2_Applications_Deploy/Class_25) [[Video]]() 
-  + Class 25a - Person Detection (VWW) - Application [[Slides]](/00_Curse_Folder/2_Applications_Deploy/Class_25a/IESTI01_TinyML_class_25a.pdf) [[Docs]](00_Curse_Folder/2_Applications_Deploy/Class_25a/Docs) [[Video]]()
+  + Class 25a - Person Detection (VWW) - Application [[Slides]](/00_Curse_Folder/2_Applications_Deploy/Class_25a/IESTI01_TinyML_class_25a.pdf) [[Docs]](00_Curse_Folder/2_Applications_Deploy/Class_25a/doc) [[Video]]()
 + Class 26 - Image Classification using Edge Impulse Studio [[Slides]](/00_Curse_Folder/2_Applications_Deploy/Class_26/IESTI01_TinyML_class_25.pdf)  [[Video]]()
 + Class 27 - Collecting Data - Aternative ways
 + Class 28 - Responsible AI & Course Wrap-up 
