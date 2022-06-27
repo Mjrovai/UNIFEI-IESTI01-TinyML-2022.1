@@ -56,7 +56,7 @@ For the previous versions of IESTI01 courses, please visit:
 + Class 25 - Image Classification Introduction [[Slides]](/00_Curse_Folder/2_Applications_Deploy/Class_25/IESTI01_TinyML_class_25.pdf) [[Docs]](00_Curse_Folder/2_Applications_Deploy/Class_25/docs) [[Notebooks]](00_Curse_Folder/2_Applications_Deploy/Class_25) [[Video]](https://youtu.be/A6wdJzEXNzM) 
   + Class 25a - Person Detection (VWW) - Application [[Slides]](/00_Curse_Folder/2_Applications_Deploy/Class_25a/IESTI01_TinyML_class_25a.pdf) [[Docs]](00_Curse_Folder/2_Applications_Deploy/Class_25a/doc) [[Video]](https://youtu.be/QhpdluF0MHk)
 + Class 26 - Image Classification using Edge Impulse Studio [[Slides]](/00_Curse_Folder/2_Applications_Deploy/Class_26/IESTI01_TinyML_class_26.pdf)  [[Video]](https://youtu.be/x439ha4gg2g)
-+ Class 27 - Collecting Data - Aternative ways [[Slides]](/00_Curse_Folder/2_Applications_Deploy/Class_27/IESTI01_TinyML_class_27.pdf) [[Docs]](00_Curse_Folder/2_Applications_Deploy/Class_27/docs) [[Video]]()
++ Class 27 - Collecting Data - Aternative ways [[Slides]](/00_Curse_Folder/2_Applications_Deploy/Class_27/IESTI01_TinyML_class_27.pdf) [[Docs]](00_Curse_Folder/2_Applications_Deploy/Class_27) [[Video]]()
 + Class 28 - Responsible AI & Course Wrap-up [[Slides]](/00_Curse_Folder/2_Applications_Deploy/Class_28/IESTI01_TinyML_class_28.pdf) [[Docs]](00_Curse_Folder/2_Applications_Deploy/Class_28/docs) [[Video]]()
 + Class 29 and 30 - Group Presentations
 
