@@ -59,7 +59,7 @@ For the previous versions of IESTI01 courses, please visit:
 + Class 27 - Collecting Data - Aternative ways [[Slides]](/00_Curse_Folder/2_Applications_Deploy/Class_27/IESTI01_TinyML_class_27.pdf) [[Docs]](00_Curse_Folder/2_Applications_Deploy/Class_27) [[Video]](https://youtu.be/kaXUgw7Nit0)
 + Class 28 - Responsible AI & Course Wrap-up [[Slides]](/00_Curse_Folder/2_Applications_Deploy/Class_28/IESTI01_TinyML_class_28.pdf) [[Docs]](00_Curse_Folder/2_Applications_Deploy/Class_28/docs) [[Video]](https://youtu.be/WPSznn67Ygo)
 + Class 29 and 30 - Group Presentations [[Video]](https://youtu.be/2Y6fL_PjL2w)
-  - Group 1 - Classificador de Vogais em Libras [[Video]](https://youtu.be/P9h7r_xhWc8)
+  - Group 1 - Classificador de Vogais em Libras [[Doc]](00_Curse_Folder/3_Final_Projects/Libras-Trabalho-IESTI01.pdf) [[Video]](https://youtu.be/P9h7r_xhWc8)
   - Group 2 - Detecção de doença pulmonar (DPOC) [[Video]](https://youtu.be/gjVJFaGKl6E)
   - Group 3 - Detecção de algarismos em hidrômetros [[Video]](https://youtu.be/rV6lmdJqsvc)
   - Group 4 - Detecção de Roncos [[Video]](https://youtu.be/DbujrQEzVy8)
