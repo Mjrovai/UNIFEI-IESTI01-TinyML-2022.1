@@ -64,11 +64,6 @@ For the previous versions of IESTI01 courses, please visit:
   - Group 3 - Detecção de algarismos em hidrômetros [[Doc]](00_Curse_Folder/3_Final_Projects/hidrometro-Projeto_Final_IESTI01.pdf) [[Video]](https://youtu.be/rV6lmdJqsvc)
   - Group 4 - Detecção de Roncos [[Doc]](00_Curse_Folder/3_Final_Projects/Ronco-Proj_final_IESTI01.pdf) [[Video]](https://youtu.be/DbujrQEzVy8)
   - Group 5 - SCancer (No TinyML) [[Video]](https://youtu.be/QCH9iYNjDJc)
-
-### Group Projects
-+ Proposals
-+ Final Reports
-
 <hr>
 
 ## Relevancia do aprendizado do TinyML
