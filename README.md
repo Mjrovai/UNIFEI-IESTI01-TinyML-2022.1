@@ -9,6 +9,7 @@
 For the previous versions of IESTI01 courses, please visit: 
 + [1st Semester 2021 - UNIFEI-IESTI01-TinyML-2021.1](https://github.com/Mjrovai/UNIFEI-IESTI01-T01-2021.1)
 + [2nd Semester 2021 - UNIFEI-IESTI01-TinyML-2021.2](https://github.com/Mjrovai/UNIFEI-IESTI01-TinyML-2021.2)
++ For the current IESTI01 course version, please go to: [UNIFEI-IESTI01-TinyML-2023.1](https://github.com/Mjrovai/UNIFEI-IESTI01-TinyML-2023.1)
 <hr>
 
 ## Material 
